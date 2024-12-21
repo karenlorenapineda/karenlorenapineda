@@ -1,10 +1,7 @@
 ## Hi there 👋
 
-[![kpineda-'s 42 stats](https://badge.mediaplus.ma/greenbinary/kpineda-?1337Badge=off)](https://github.com/oakoudad/badge42)
 <p align="center"> <a href="https://badge.mediaplus.ma/greenbinary/kpineda-?1337Badge=off" alt="kpineda-'s 42 stats" /></a>
 
-  
-<!--
 
 Here are some ideas to get you started:
 
