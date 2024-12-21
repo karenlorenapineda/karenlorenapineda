@@ -1,8 +1,10 @@
 ## Hi there 👋
 
 [![kpineda-'s 42 stats](https://badge.mediaplus.ma/greenbinary/kpineda-?1337Badge=off)](https://github.com/oakoudad/badge42)
+<p align="center"> <a href="https://badge.mediaplus.ma/greenbinary/kpineda-?1337Badge=off" alt="kpineda-'s 42 stats" /></a>
+
+  
 <!--
-**karenlorenapineda/karenlorenapineda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
