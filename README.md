@@ -2,7 +2,7 @@
 
 <p align="center"> <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/kpineda-?" alt="kpineda-'s 42 stats" /></a>
 
-<!
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
