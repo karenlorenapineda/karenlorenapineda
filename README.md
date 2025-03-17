@@ -1,11 +1,8 @@
 ## Hi there 👋
 
-<p align="center"> <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/kpineda-?" alt="kpineda-'s 42 stats" style="max-width: 100%;" /></a>
+<p align="center"> <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/kpineda-?" alt="kpineda-'s 42 stats" style="height: 100%;" /></a>
 
 <!--
-<img src="https://camo.githubusercontent.com/5150f647521dbe8c148593b0f3e51a7537617947cab93a95df8ae1523c3aac26/68747470733a2f2f62616467652e6d65646961706c75732e6d612f737461727279626c75652f6a75616e686572723f3133333742616467653d6f666626554d36503d6f6666" alt="juanherr's 42 stats" data-canonical-src="https://badge.mediaplus.ma/starryblue/juanherr?1337Badge=off&amp;UM6P=off" style="max-width: 100%;">
-
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
