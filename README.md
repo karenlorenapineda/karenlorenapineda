@@ -1,8 +1,11 @@
 ## Hi there 👋
 
-<p align="center"> <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/kpineda-?" alt="kpineda-'s 42 stats" style="height: 100%;" /></a>
+<p align="center">
+  <img src="Assets/yo.gif" alt="Protagonista" width="200"/>
+</p>
 
 <!--
+<p align="center"> <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/kpineda-?" alt="kpineda-'s 42 stats" style="height: 100%;" /></a>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
